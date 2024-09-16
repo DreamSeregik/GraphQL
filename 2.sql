@@ -1,0 +1,7 @@
+INSERT INTO Ученики (name, age) VALUES('Коля', 30)
+INSERT INTO Ученики (name, age) VALUES('Вася', 28)
+INSERT INTO Ученики (name, age) VALUES('Петя', 40)
+INSERT INTO Ученики (name, age) VALUES('Стёпа', 50)
+INSERT INTO Ученики (name, age) VALUES('Данил', 90)
+INSERT INTO Ученики (name, age) VALUES('Максим', 15)
+INSERT INTO Ученики (name, age) VALUES('Сергей', 20)
